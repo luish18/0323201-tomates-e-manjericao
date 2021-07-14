@@ -12,7 +12,7 @@ VINICIUS SCHAEDLER DAMIN - 11258203
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-#define ONE_WIRE_BUS 5
+#define ONE_WIRE_BUS 13
 
 OneWire oneWire(ONE_WIRE_BUS);
 
